@@ -1,0 +1,25 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+img {
+    vertical-align: middle;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+
+/*=====================
+Common css end
+================== */
+
+.img-slider img {
+    width: 100%;
+}
